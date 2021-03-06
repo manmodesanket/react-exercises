@@ -8,3 +8,4 @@ React Exercises from neogcamp
 5. Counter: [Link](https://codesandbox.io/s/reactcounter-xgxfk)
 6. Toast: [Link](https://codesandbox.io/s/toast-ft7um)
 7. Basic Card: [Link](https://codesandbox.io/s/basic-card-hdfcf)
+8. Switch Tabs" [Link](https://codesandbox.io/s/switchtabs-n4tni)
