@@ -10,3 +10,4 @@ React Exercises from neogcamp
 7. Basic Card: [Link](https://codesandbox.io/s/basic-card-hdfcf)
 8. Switch Tabs: [Link](https://codesandbox.io/s/switchtabs-n4tni)
 9. Todo: [Link](https://codesandbox.io/s/todoapp-2kmhm)
+10. Font-size: [Link](https://codesandbox.io/s/font-size-bbx63)
